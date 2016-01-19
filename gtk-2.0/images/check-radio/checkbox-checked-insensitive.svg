@@ -108,7 +108,7 @@
        x2="8.0496531"
        y2="1052.4611"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.86666666,0,0,0.93333217,0.0666667,70.125364)" />
+       gradientTransform="matrix(0.86666666,0,0,0.93333217,1.0666667,70.125364)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3786"
@@ -136,8 +136,7 @@
        y1="1038.447"
        x2="7.9598212"
        y2="1041.3032"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,0)" />
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4024"
@@ -146,8 +145,7 @@
        y1="1040.3622"
        x2="8"
        y2="1048.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,0)" />
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -185,7 +183,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,7 +197,7 @@
        id="rect3788"
        width="11.999702"
        height="12.000017"
-       x="1"
+       x="2"
        y="1038.3622"
        rx="1.5035354"
        ry="1.5088762" />
@@ -208,7 +206,7 @@
        id="rect3757"
        width="13"
        height="13.999983"
-       x="0.5"
+       x="1.5"
        y="1037.8622"
        rx="2.4642856"
        ry="2.4866071" />
@@ -216,17 +214,17 @@
        ry="1.5088762"
        rx="1.5035354"
        y="1038.3622"
-       x="1"
+       x="2"
        height="12.000017"
        width="11.999702"
        id="rect3782"
        style="fill:url(#linearGradient3791);fill-opacity:1;stroke:none" />
     <rect
-       style="fill:none;stroke:#b0b0b0;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#b0b0b0;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3755"
        width="13"
        height="13"
-       x="0.5"
+       x="1.5"
        y="1037.8622"
        rx="2"
        ry="2" />
@@ -240,16 +238,16 @@
        rx="0.94457"
        ry="1.0090158" />
     <rect
-       style="opacity:0.1;fill:url(#linearGradient4030);fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient4030);fill-opacity:1;stroke:none;opacity:0.1"
        id="rect4022"
        width="8"
        height="7.9999828"
-       x="3"
+       x="4"
        y="1040.3622" />
     <path
        style="fill:#b2b2b2;fill-opacity:1;stroke:none"
-       d="m 4,1041.3622 0,2 1,0 0,2 -1,0 0,2 2,0 0,-1 2,0 0,1 2,0 0,-2 -1,0 0,-2 1,0 0,-2 -2,0 0,1 -2,0 0,-1 -2,0 z"
+       d="M 5 5 L 5 7 L 6 7 L 6 9 L 5 9 L 5 11 L 7 11 L 7 10 L 9 10 L 9 11 L 11 11 L 11 9 L 10 9 L 10 7 L 11 7 L 11 5 L 9 5 L 9 6 L 7 6 L 7 5 L 5 5 z "
        id="rect3812"
-       inkscape:connector-curvature="0" />
+       transform="translate(0,1036.3622)" />
   </g>
 </svg>

@@ -15,10 +15,7 @@
    id="svg3806"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="radio-selected.svg"
-   inkscape:export-filename="/home/joseph/.themes/Mint-X-Purple/gtk-3.0/assets/radio-selected@2.png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180">
+   sodipodi:docname="radio-selected.svg">
   <defs
      id="defs3808">
     <linearGradient
@@ -118,10 +115,10 @@
      pagecolor="#d6d6d6"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-2.6882077"
+     inkscape:cx="8.0721197"
      inkscape:cy="7.623733"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -159,7 +156,7 @@
      transform="translate(0,-1036.3622)">
     <path
        transform="matrix(0.92857142,0,0,0.92857245,0.57142866,1037.9336)"
-       d="m 15,8 c 0,3.865993 -3.134007,7 -7,7 C 4.1340068,15 1,11.865993 1,8 1,4.1340068 4.1340068,1 8,1 c 3.865993,0 7,3.1340068 7,7 z"
+       d="M 15,8 A 7,7 0 1 1 1,8 7,7 0 1 1 15,8 z"
        sodipodi:ry="7"
        sodipodi:rx="7"
        sodipodi:cy="8"
@@ -169,13 +166,13 @@
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="fill:#5aaa9a;fill-opacity:1;stroke:#666666;stroke-width:1.07692265999999992;stroke-opacity:1"
+       style="fill:#aacb88;fill-opacity:1;stroke:#666666;stroke-width:1.07692265999999992;stroke-opacity:1"
        id="path4328"
        sodipodi:cx="8"
        sodipodi:cy="8"
        sodipodi:rx="7"
        sodipodi:ry="7"
-       d="m 15,8 c 0,3.865993 -3.134007,7 -7,7 C 4.1340068,15 1,11.865993 1,8 1,4.1340068 4.1340068,1 8,1 c 3.865993,0 7,3.1340068 7,7 z"
+       d="M 15,8 A 7,7 0 1 1 1,8 7,7 0 1 1 15,8 z"
        transform="matrix(0.92857142,0,0,0.92857245,0.57142862,1036.9336)" />
     <path
        sodipodi:type="arc"
@@ -185,7 +182,7 @@
        sodipodi:cy="8"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 14,8 c 0,2.761424 -2.238576,5 -5,5 C 6.2385763,13 4,10.761424 4,8 4,5.2385763 6.2385763,3 9,3 c 2.761424,0 5,2.2385763 5,5 z"
+       d="M 14,8 A 5,5 0 1 1 4,8 5,5 0 1 1 14,8 z"
        transform="matrix(1.1,0,0,1.1,-1.9,1035.5622)" />
     <path
        sodipodi:type="arc"
@@ -195,11 +192,11 @@
        sodipodi:cy="8"
        sodipodi:rx="7"
        sodipodi:ry="7"
-       d="m 15,8 c 0,3.865993 -3.134007,7 -7,7 C 4.1340068,15 1,11.865993 1,8 1,4.1340068 4.1340068,1 8,1 c 3.865993,0 7,3.1340068 7,7 z"
+       d="M 15,8 A 7,7 0 1 1 1,8 7,7 0 1 1 15,8 z"
        transform="matrix(0.85714286,0,0,0.8571449,1.1428571,1037.505)" />
     <path
        transform="matrix(1.1428571,0,0,2,-0.57142855,1032.3622)"
-       d="M 11,6 C 11,7.1045695 9.4329966,8 7.5,8 5.5670034,8 4,7.1045695 4,6 4,4.8954305 5.5670034,4 7.5,4 9.4329966,4 11,4.8954305 11,6 z"
+       d="M 11,6 A 3.5,2 0 1 1 4,6 3.5,2 0 1 1 11,6 z"
        sodipodi:ry="2"
        sodipodi:rx="3.5"
        sodipodi:cy="6"
@@ -215,7 +212,7 @@
        sodipodi:cy="6"
        sodipodi:rx="3.5"
        sodipodi:ry="2"
-       d="M 11,6 C 11,7.1045695 9.4329966,8 7.5,8 5.5670034,8 4,7.1045695 4,6 4,4.8954305 5.5670034,4 7.5,4 9.4329966,4 11,4.8954305 11,6 z"
+       d="M 11,6 A 3.5,2 0 1 1 4,6 3.5,2 0 1 1 11,6 z"
        transform="matrix(0.85714282,0,0,1.5,1.5714287,1035.3622)" />
   </g>
 </svg>

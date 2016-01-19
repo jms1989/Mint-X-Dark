@@ -15,10 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="checkbox-checked.svg"
-   inkscape:export-filename="/home/joseph/.themes/Mint-X-Purple/gtk-3.0/assets/checkbox-checked.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="checkbox-checked.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -111,7 +108,7 @@
        x2="8.0496531"
        y2="1052.4611"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.86666666,0,0,0.93333217,0.0666667,70.125364)" />
+       gradientTransform="matrix(0.86666666,0,0,0.93333217,1.0666667,70.125364)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3786"
@@ -126,7 +123,7 @@
        xlink:href="#linearGradient3767"
        id="linearGradient3780"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99999998,0,0,1.0000016,-0.99999992,-0.00155298)"
+       gradientTransform="matrix(0.99999998,0,0,1.0000016,7.9584105e-8,-0.00155298)"
        x1="8.0293484"
        y1="1038.4275"
        x2="8.0293484"
@@ -139,8 +136,7 @@
        y1="1038.447"
        x2="7.9598212"
        y2="1041.3032"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,0)" />
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4024"
@@ -149,27 +145,26 @@
        y1="1040.3622"
        x2="8"
        y2="1048.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,0)" />
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#d6d6d6"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="-8.4054201"
-     inkscape:cy="7.9840822"
+     inkscape:zoom="44.8"
+     inkscape:cx="6.7133205"
+     inkscape:cy="6.9521487"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
      inkscape:window-width="1401"
      inkscape:window-height="908"
-     inkscape:window-x="298"
-     inkscape:window-y="85"
+     inkscape:window-x="220"
+     inkscape:window-y="74"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
@@ -198,11 +193,11 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:#5aaa9a;fill-opacity:1;stroke:none"
+       style="fill:#aacb88;fill-opacity:1;stroke:none"
        id="rect3788"
        width="11.999702"
        height="12.000017"
-       x="1"
+       x="2"
        y="1038.3622"
        rx="1.5035354"
        ry="1.5088762" />
@@ -211,7 +206,7 @@
        id="rect3757"
        width="13"
        height="13.999983"
-       x="0.5"
+       x="1.5"
        y="1037.8622"
        rx="2.4642856"
        ry="2.4866071" />
@@ -219,17 +214,17 @@
        ry="1.5088762"
        rx="1.5035354"
        y="1038.3622"
-       x="1"
+       x="2"
        height="12.000017"
        width="11.999702"
        id="rect3782"
        style="fill:url(#linearGradient3791);fill-opacity:1;stroke:none" />
     <rect
-       style="fill:none;stroke:#666666;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#666666;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3755"
        width="13"
        height="13"
-       x="0.5"
+       x="1.5"
        y="1037.8622"
        rx="2"
        ry="2" />
@@ -238,7 +233,7 @@
        id="rect3765"
        width="11"
        height="11.000017"
-       x="1.5"
+       x="2.5"
        y="1038.8622"
        rx="0.94457"
        ry="1.0090158" />
@@ -247,12 +242,12 @@
        id="rect4022"
        width="8"
        height="7.9999828"
-       x="3"
+       x="4"
        y="1040.3622" />
     <path
        style="fill:#f5f5f5;fill-opacity:1;stroke:none"
-       d="m 4,1041.3622 0,2 1,0 0,2 -1,0 0,2 2,0 0,-1 2,0 0,1 2,0 0,-2 -1,0 0,-2 1,0 0,-2 -2,0 0,1 -2,0 0,-1 -2,0 z"
+       d="M 5 5 L 5 7 L 6 7 L 6 9 L 5 9 L 5 11 L 7 11 L 7 10 L 9 10 L 9 11 L 11 11 L 11 9 L 10 9 L 10 7 L 11 7 L 11 5 L 9 5 L 9 6 L 7 6 L 7 5 L 5 5 z "
        id="rect3812"
-       inkscape:connector-curvature="0" />
+       transform="translate(0,1036.3622)" />
   </g>
 </svg>

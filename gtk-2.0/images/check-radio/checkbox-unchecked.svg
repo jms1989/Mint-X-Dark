@@ -97,7 +97,7 @@
        x2="8.0496531"
        y2="1052.4611"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.86666666,0,0,0.93333217,0.0666667,70.125381)" />
+       gradientTransform="matrix(0.86666666,0,0,0.93333217,1.0666667,70.125364)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3786"
@@ -122,7 +122,7 @@
        xlink:href="#linearGradient3767"
        id="linearGradient3780"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99999998,0,0,1.0000016,-0.99999992,-0.0015356)"
+       gradientTransform="matrix(0.99999998,0,0,1.0000016,7.9584105e-8,-0.00155298)"
        x1="8.0293484"
        y1="1038.4275"
        x2="8.0293484"
@@ -135,8 +135,7 @@
        y1="1038.447"
        x2="7.9598212"
        y2="1041.3032"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,1.7382813e-5)" />
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -151,7 +150,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1401"
      inkscape:window-height="908"
      inkscape:window-x="220"
@@ -188,7 +187,7 @@
        id="rect3788"
        width="11.999702"
        height="12.000017"
-       x="1"
+       x="2"
        y="1038.3622"
        rx="1.5035354"
        ry="1.5088762" />
@@ -197,7 +196,7 @@
        id="rect3757"
        width="13"
        height="13.999983"
-       x="0.5"
+       x="1.5"
        y="1037.8622"
        rx="2.4642856"
        ry="2.4866071" />
@@ -206,7 +205,7 @@
        id="rect3755"
        width="13"
        height="13"
-       x="0.5"
+       x="1.5"
        y="1037.8622"
        rx="2"
        ry="2" />
@@ -214,7 +213,7 @@
        ry="1.5088762"
        rx="1.5035354"
        y="1038.3622"
-       x="1"
+       x="2"
        height="12.000017"
        width="11.999702"
        id="rect3782"
@@ -224,7 +223,7 @@
        id="rect3765"
        width="11"
        height="11.000017"
-       x="1.5"
+       x="2.5"
        y="1038.8622"
        rx="0.94457"
        ry="1.0090158" />

@@ -89,7 +89,7 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#5aaa9a;fill-opacity:1;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 8,15 3.4703391,13 4,11 l 3,1 0,-5 2,0 0,5 3,-1 0.54661,2 z"
      id="path3882"
      inkscape:connector-curvature="0"
@@ -99,5 +99,5 @@
      inkscape:connector-curvature="0"
      id="path3964"
      d="M 8,14 3.4703391,12 4,10 l 3,1 0,-5 2,0 0,5 3,-1 0.54661,2 z"
-     style="fill:#5aaa9a;fill-opacity:1;stroke:none" />
+     style="fill:#666666;fill-opacity:1;stroke:none" />
 </svg>

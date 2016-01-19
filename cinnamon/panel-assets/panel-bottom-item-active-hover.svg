@@ -15,7 +15,7 @@
    height="24"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="panel-bottom-item-active-hover.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -30,15 +30,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="20.005229"
-     inkscape:cx="-3.0460662"
+     inkscape:cx="-10.993988"
      inkscape:cy="11.800052"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="400px"
@@ -136,6 +136,12 @@
        height="2"
        x="0"
        y="22"
+       transform="translate(0,276)" />
+    <path
+       style="fill:#a7c982;fill-opacity:1"
+       d="m 0.03312874,23.012121 0,-0.974745 11.97187026,0 11.97187,0 0,0.974745 0,0.974745 -11.97187,0 -11.97187026,0 0,-0.974745 z"
+       id="path3770"
+       inkscape:connector-curvature="0"
        transform="translate(0,276)" />
   </g>
 </svg>

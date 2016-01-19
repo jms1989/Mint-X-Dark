@@ -15,7 +15,7 @@
    height="24"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="panel-bottom-item-active.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -30,15 +30,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="20.005229"
-     inkscape:cx="-10.71906"
-     inkscape:cy="11.800052"
+     inkscape:cx="-2.9483462"
+     inkscape:cy="5.8016203"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="400px"
@@ -144,6 +144,24 @@
        height="22"
        x="0"
        y="0"
+       transform="translate(0,276)" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 0.03812753,23.012121 0,-0.974745 11.97186947,0 11.97187,0 0,0.974745 0,0.974745 -11.97187,0 -11.97186947,0 0,-0.974745 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       transform="translate(0,276)" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 0.03812753,23.012121 0,-0.974745 11.97186947,0 11.97187,0 0,0.974745 0,0.974745 -11.97187,0 -11.97186947,0 0,-0.974745 z"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       transform="translate(0,276)" />
+    <path
+       style="fill:#a7c982;stroke:none;fill-opacity:1"
+       d="m 0.03812753,23.012121 0,-0.974745 11.97186947,0 11.97187,0 0,0.974745 0,0.974745 -11.97187,0 -11.97186947,0 0,-0.974745 z"
+       id="path2989"
+       inkscape:connector-curvature="0"
        transform="translate(0,276)" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="checkbox-unchecked-insensitive.svg">
+   sodipodi:docname="checkbox-insensitive.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -108,7 +108,7 @@
        x2="8.0496531"
        y2="1052.4611"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.86666666,0,0,0.93333217,0.06696425,70.125364)" />
+       gradientTransform="matrix(0.86666666,0,0,0.93333217,1.0666667,70.125364)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3786"
@@ -136,8 +136,7 @@
        y1="1038.447"
        x2="7.9598212"
        y2="1041.3032"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.99970245,2.1667483e-7)" />
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4024"
@@ -184,7 +183,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,7 +197,7 @@
        id="rect3788"
        width="11.999702"
        height="12.000017"
-       x="1.0002975"
+       x="2"
        y="1038.3622"
        rx="1.5035354"
        ry="1.5088762" />
@@ -207,7 +206,7 @@
        id="rect3757"
        width="13"
        height="13.999983"
-       x="0.50029755"
+       x="1.5"
        y="1037.8622"
        rx="2.4642856"
        ry="2.4866071" />
@@ -215,17 +214,17 @@
        ry="1.5088762"
        rx="1.5035354"
        y="1038.3622"
-       x="1.0002975"
+       x="2"
        height="12.000017"
        width="11.999702"
        id="rect3782"
        style="fill:url(#linearGradient3791);fill-opacity:1;stroke:none" />
     <rect
-       style="fill:none;stroke:#b0b0b0;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#b0b0b0;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3755"
        width="13"
        height="13"
-       x="0.50029755"
+       x="1.5"
        y="1037.8622"
        rx="2"
        ry="2" />

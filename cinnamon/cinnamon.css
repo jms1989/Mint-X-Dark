@@ -7,12 +7,12 @@ stage {
 }
 
 .cinnamon-link {
-    color: #5aaa9a;
+    color: #000;
     text-decoration: underline;
 }
 
 .cinnamon-link:hover {
-    color: #5aaaaa;
+    color: #50a200;
 }
 
 .label-shadow {
@@ -743,7 +743,7 @@ StScrollBar StButton#vhandle:hover {
 */   
 box-shadow: inset 0px 0px 0px 1px rgba(120, 120, 120, 1);
  
-    background: #5aaa9a;
+    background: #9ab87c;
 }
 
 .calendar-other-month-day {
