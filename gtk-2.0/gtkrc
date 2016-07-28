@@ -2,7 +2,7 @@
 ##################№№№####
 
 
-gtk-color-scheme = "bg_color:#333333\nfg_color:#ffffff\nbase_color:#333333\ntext_color:#ffffff\nselected_bg_color:#5CD854\nselected_fg_color:#ffffff\ntooltip_bg_color:#2d2d2d\ntooltip_fg_color:#dedede\ntitlebar_bg_color:#333333\ntitlebar_fg_color:#ffffff\nmenubar_bg_color:#333333\nmenubar_fg_color:#ffffff\ntoolbar_bg_color:#333333\ntoolbar_fg_color:#ffffff\nmenu_bg_color:#333333\nmenu_fg_color:#ffffff\npanel_bg_color:#2b2b2b\npanel_fg_color:#ffffff\nlink_color:#5CD854"
+gtk-color-scheme = "bg_color:#333333\nfg_color:#ffffff\nbase_color:#333333\ntext_color:#ffffff\nselected_bg_color:#5f7647\nselected_fg_color:#ffffff\ntooltip_bg_color:#2d2d2d\ntooltip_fg_color:#dedede\ntitlebar_bg_color:#333333\ntitlebar_fg_color:#ffffff\nmenubar_bg_color:#333333\nmenubar_fg_color:#ffffff\ntoolbar_bg_color:#333333\ntoolbar_fg_color:#ffffff\nmenu_bg_color:#333333\nmenu_fg_color:#ffffff\npanel_bg_color:#2b2b2b\npanel_fg_color:#ffffff\nlink_color:#5F7647"
 
 # Default Style
 
